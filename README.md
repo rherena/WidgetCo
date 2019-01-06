@@ -9,7 +9,11 @@ HTML & Python Notebooks show code for:
  - ROC plot, Confusion matrix, Feature Importance, CV. 
  
 
+ ROC Curve
  
 ![ROC Curve of Models](plots/Log_ROC.png "ROC")
- 
+
+Shapely Feature Summary Values
+
+![ROC Curve of Models](plots/shap_summary_plot.png "SHAP plot")
  
