@@ -7,3 +7,9 @@ HTML & Python Notebooks show code for:
  - train XGboost and Logistic Regression Models
  - CV and model tuning
  - ROC plot, Confusion matrix, Feature Importance, CV. 
+ 
+
+ 
+![ROC Curve of Models](plots/Log_ROC.png "ROC")
+ 
+ 
